@@ -207,7 +207,7 @@ Public Class Form1
             writer.WriteStartElement("ApplicationSettings")
             writer.WriteElementString("UseRegistry", IIf(rab_FromRegistry.Checked, "TRUE", "FALSE"))
             writer.WriteElementString("RegistryPath", tmpRegistryPath.Replace("\", "\\"))
-            writer.WriteElementString("InstallDirectory", tmpFilePath.Replace("\", "\\"))
+            writer.WriteElementString("InstallDirectory", tmpFilePath.Replace("\", "\\") & IIf(tmpFilePath.EndsWith("\"), "", "\\"))
             writer.WriteElementString("InternalSplash", IIf(cbx_CustomSplash.Checked, "TRUE", "FALSE"))
             writer.WriteElementString("SplashFileName", txb_SplashLocation.Text)
             writer.WriteEndElement()
