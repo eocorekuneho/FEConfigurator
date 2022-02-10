@@ -1,0 +1,10 @@
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\bin\Release\FEConfigurator.exe
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\bin\Release\FEConfigurator.pdb
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\bin\Release\FEConfigurator.xml
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\obj\Release\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\obj\Release\FEConfigurator.Form1.resources
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\obj\Release\FEConfigurator.Resources.resources
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\obj\Release\FEConfigurator.vbproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\obj\Release\FEConfigurator.exe
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\obj\Release\FEConfigurator.xml
+F:\Documents\Visual Studio 2008\Projects\FEConfigurator\FEConfigurator\obj\Release\FEConfigurator.pdb

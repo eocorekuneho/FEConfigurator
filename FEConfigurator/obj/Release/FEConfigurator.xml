@@ -1,0 +1,78 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FEConfigurator
+</name>
+</assembly>
+<members>
+<member name="P:FEConfigurator.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.config">
+	<summary>
+  Looks up a localized string similar to &lt;?xml version="1.0" encoding="utf-8"?&gt;
+	&lt;!--
+	UseRegistry - TRUE or FALSE. If You want Fable Explorer to lookup your install - use this as TRUE
+	RegistryPath - The path that it seeks in the registry by default
+	InstallDirectory - If UseRegistry is False, it will look for Fable.exe or default.xbe (Xbox) in your specified path to verify it is correct
+	InternalSplash - TRUE or FALSE. If you want to use a different splash than the one that is compiled it must be set to FALSE
+	SplashFileName - If FALSE it  [rest of string was truncated]";.
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.def">
+	<summary>
+  Looks up a localized string similar to &lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!--
+
+  Valid Member Types
+  (Type name)             (Description)
+  int                     32 bit signed integer
+  uint                    32 bit unsigned integer
+  short                   16 bit signed integer
+  ushort                  16 bit unsigned integer
+  char                    8 bit signed integer
+  byte                    8 bit unsigned integer
+  string                  Null-terminated string (c-style string)
+  float                   32 bit flo [rest of string was truncated]";.
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.infotext_click_to_edit_path">
+	<summary>
+  Looks up a localized string similar to Click here to specify the location of Fable game files..
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.infotext_close">
+	<summary>
+  Looks up a localized string similar to Close Fable Explorer Configurator. Any unsaved changes will be lost!.
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.infotext_from_filepath">
+	<summary>
+  Looks up a localized string similar to Select this option if you want to find Fable by hand. USE THIS WITH MODERN WINDOWS! (Vista and up), especially on 64 bit systems..
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.infotext_from_registry">
+	<summary>
+  Looks up a localized string similar to Select this option if Fable Explorer should find Fable game files automatically. MAY NOT WORK ON STEAM RELEASE!.
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.infotext_github">
+	<summary>
+  Looks up a localized string similar to Check out this project on GitHub!.
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.infotext_saveexit">
+	<summary>
+  Looks up a localized string similar to Save configuration and exit Fable Explorer Configurator..
+</summary>
+</member><member name="P:FEConfigurator.My.Resources.Resources.infotext_use_custom_splash">
+	<summary>
+  Looks up a localized string similar to Use custom splash image file, when launching Fable Explorer..
+</summary>
+</member><member name="T:FEConfigurator.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
