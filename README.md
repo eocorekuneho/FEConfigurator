@@ -25,9 +25,5 @@ You can change the following settings of Fable Explorer:
 This software was made with Visual Basic Express 2008.
 Thus, you need .NET Framework 3.5 or later to run. (It's very likely you have it already)
 
-
 ## Notes
-I really like Fable, but not at a "fangirlish" state. I wanted to play the game on my native language, and I needed Fable Explorer for that.
-Now, finding a working copy of Fable Explorer out of the box is no easy task nowadays and it has to be configured just right to run.
-This is why I made this project, to preserve the usability of FE for a long time now.
-
+Have fun :)
